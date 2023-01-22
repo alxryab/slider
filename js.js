@@ -1,1 +1,1 @@
-console.log('slider test')
+console.log('slider test new')
